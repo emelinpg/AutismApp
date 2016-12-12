@@ -1,0 +1,70 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.autismspeaks2017.com" resolutions="1x" timestamp="1481520945989">
+  <folder name="css">
+    <file name="site_global.css" crc="4070370234"/>
+    <file name="master_a-master.css" crc="3771686631" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3823878339" ref="index"/>
+    <file name="index.css" crc="60642997" ref="index"/>
+    <file name="nomq_index.css" crc="3771024183" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u10047.php" crc="448215486" ref="index"/>
+    <file name="form-u9973.php" crc="412870824" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="menu_03.png" crc="222996780" ref="index"/>
+    <file name="ycooxbdce.png" crc="446300713" ref="index"/>
+    <file name="my-asics-logo-white.png" crc="175218226" ref="index"/>
+    <file name="autisimsite_10.png" crc="89501132" ref="index"/>
+    <file name="walknowforautism.jpg" crc="243998223" ref="index"/>
+    <file name="rosebowl.png" crc="4196771008" ref="index"/>
+    <file name="freewaymap.jpg" crc="326866173" ref="index"/>
+    <file name="parkingmap.jpg" crc="361189500" ref="index"/>
+    <file name="activitymap.jpg" crc="4212077353" ref="index"/>
+    <file name="autisimsite_02.png" crc="203995503" ref="index"/>
+    <file name="autisimsite_16.png" crc="202058313" ref="index"/>
+    <file name="autismwalk3.jpg" crc="215559592" ref="index"/>
+    <file name="walkstart.jpg" crc="3947312449" ref="index"/>
+    <file name="autisimstage.jpg" crc="175928031" ref="index"/>
+    <file name="bobwright.jpg" crc="508643430" ref="index"/>
+    <file name="guestspeaker2-u9381-fr.jpg" crc="4081612220" ref="index"/>
+    <file name="ceo-u9380-fr.jpg" crc="294774215" ref="index"/>
+    <file name="starwars.jpg" crc="54601337" ref="index"/>
+    <file name="autismvolunteers.jpg" crc="3759990246" ref="index"/>
+    <file name="autismdonation.jpg" crc="4060184690" ref="index"/>
+    <file name="donation_15.png" crc="415575537" ref="index"/>
+    <file name="autisimsite_18.png" crc="3781597710" ref="index"/>
+    <file name="autisimsite_05.png" crc="201214233" ref="index"/>
+    <file name="justinautismwalk.jpg" crc="4159437034" ref="index"/>
+    <file name="ycooxbdce-u119-fr.png" crc="4140264526" ref="index"/>
+    <file name="walknowforautism-u2616-fr.jpg" crc="3819542611" ref="index"/>
+    <file name="autisimsite_10-u308-fr.png" crc="174325779" ref="index"/>
+    <file name="autisimsite_02-u415-fr.png" crc="3893077964" ref="index"/>
+    <file name="autismwalk3-u7144-fr.jpg" crc="4111866788" ref="index"/>
+    <file name="walkstart-u7145-fr.jpg" crc="4229709098" ref="index"/>
+    <file name="autisimstage-u7123-fr.jpg" crc="4057716061" ref="index"/>
+    <file name="guestspeaker2.jpg" crc="3969851668" ref="index"/>
+    <file name="ceo-u7133-fr.jpg" crc="261180013" ref="index"/>
+    <file name="autisimsite_16-u449-fr.png" crc="116573528" ref="index"/>
+    <file name="autismdonation-u8239-fr.jpg" crc="3946172908" ref="index"/>
+    <file name="donation_15-u465-fr.png" crc="4063055528" ref="index"/>
+    <file name="autisimsite_18-u482-fr.png" crc="461697842" ref="index"/>
+    <file name="autisimsite_05-u515-fr.png" crc="3794503087" ref="index"/>
+    <file name="justinautismwalk-u761-fr.jpg" crc="4127053984" ref="index"/>
+  </folder>
+  <file name="index.html" crc="35799671" seo="true" mt="1481520897914" redirect="true"/>
+</manifest>
